@@ -1,2 +1,2 @@
 # leedsdevs
-Simple website for the LeedsDevs community
+Simple website for the LeedsDevs community.
